@@ -9,6 +9,6 @@
   "author": "minyyds",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.14"
+    "inquirer": "^8.0.0"
   }
 }
