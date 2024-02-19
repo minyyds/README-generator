@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "readme generator in command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minyyds",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.14"
+  }
+}
