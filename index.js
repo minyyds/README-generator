@@ -115,9 +115,6 @@ function generateReadme(answers) {
     readmeContent += `\n`;
 
     sections.forEach(section => {
-        if (section === "Tests") {
-            readmeContent += `## ${section}\n\n If you wish to run tests just input: \n\n`
-        }
         if (section === "Questions") {
             readmeContent += `## ${section}\n\n If you have any questions, contact me here: \n\n`;
             if (answers.username) {
@@ -131,6 +128,7 @@ function generateReadme(answers) {
             readmeContent += `## ${section}\n\n${answers[section.toLowerCase()]}\n\n`;
         }
     });
+
 
     return readmeContent;
 }

@@ -12,7 +12,7 @@
 
 ## Description
 
-its a readme generator using node in the command line
+read me generation from the command line using node and npm inquirer
 
 ## Installation
 
@@ -20,7 +20,7 @@ npm i
 
 ## Usage
 
-makes creating a readme file easier.
+quick readme generation
 
 ## Contributions
 
@@ -28,16 +28,16 @@ None
 
 ## Tests
 
-None
+npm test
 
 ## Questions
 
- If you have any questions, contact us here: 
+ If you have any questions, contact me here: 
 
 * [GitHub Profile](https://github.com/minyyds)
 * Email: minesh651@gmail.com
 
 ## License
 
-MIT
+None
 
