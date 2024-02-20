@@ -12,7 +12,7 @@
 
 ## Description
 
-read me generation from the command line using node and npm inquirer
+README Generator using command line with node and npm inquirer.
 
 ## Installation
 
@@ -20,13 +20,15 @@ npm i
 
 ## Usage
 
-quick readme generation
+Quck and easy README Generation.
 
 ## Contributions
 
 None
 
 ## Tests
+
+ If you wish to run tests just input: 
 
 npm test
 
